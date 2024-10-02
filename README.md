@@ -1,1 +1,1 @@
-This is a chrome extension that habdles too many open tabs
+This is a chrome extension that handles too many open tabs
